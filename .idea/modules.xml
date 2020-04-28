@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fundoo_Notes/.idea/Fundoo_Notes.iml" filepath="$PROJECT_DIR$/../Fundoo_Notes/.idea/Fundoo_Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Weather/.idea/Weather.iml" filepath="$PROJECT_DIR$/../Weather/.idea/Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../realestate/.idea/realestate.iml" filepath="$PROJECT_DIR$/../realestate/.idea/realestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy-task/.idea/scrapy-task.iml" filepath="$PROJECT_DIR$/../scrapy-task/.idea/scrapy-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../technicalque/.idea/technicalque.iml" filepath="$PROJECT_DIR$/../technicalque/.idea/technicalque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wikipedia.iml" filepath="$PROJECT_DIR$/.idea/wikipedia.iml" />
+    </modules>
+  </component>
+</project>

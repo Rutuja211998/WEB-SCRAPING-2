@@ -1,0 +1,14 @@
+Date: Fri, 24 Apr 2020 09:02:55 GMT
+Content-Type: text/html; charset=iso-8859-1
+Server: mw1367.eqiad.wmnet
+Location: https://en.wikipedia.org/robots.txt
+Vary: X-Forwarded-Proto
+Age: 39370
+X-Cache: cp3052 hit, cp3052 hit/626
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=24-Apr-2020;Path=/;HttpOnly;secure;Expires=Tue, 26 May 2020 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=24-Apr-2020;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 26 May 2020 12:00:00 GMT
+Set-Cookie: GeoIP=CH:ZH:Zurich:47.39:8.45:v4; Path=/; secure; Domain=.wikipedia.org
+X-Client-Ip: 82.102.24.8

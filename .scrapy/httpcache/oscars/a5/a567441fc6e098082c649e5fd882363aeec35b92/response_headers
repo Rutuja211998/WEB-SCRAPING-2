@@ -1,0 +1,19 @@
+Date: Fri, 24 Apr 2020 19:14:42 GMT
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Vary: X-Subdomain
+Server: ATS/8.0.7
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+X-Article-Id: 19292575
+X-Language: en
+X-Site: wikipedia
+Last-Modified: Thu, 05 Dec 2019 03:36:10 GMT
+Content-Encoding: gzip
+Age: 2670
+X-Cache: cp3052 hit, cp3052 hit/404
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=24-Apr-2020;Path=/;HttpOnly;secure;Expires=Tue, 26 May 2020 12:00:00 GMT
+X-Client-Ip: 82.102.24.8
+Accept-Ranges: bytes
