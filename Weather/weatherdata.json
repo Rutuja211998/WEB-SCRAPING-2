@@ -1,0 +1,11 @@
+[
+{"day": "Tonight", "forecast": ["Mostly Cloudy"], "temp": ["Low: 54 \u00b0F"]},
+{"day": "Sunday", "forecast": ["Sunny"], "temp": []},
+{"day": "Sunday", "forecast": ["Mostly Clear"], "temp": ["Low: 53 \u00b0F"]},
+{"day": "Monday", "forecast": ["Mostly Sunny"], "temp": []},
+{"day": "Monday", "forecast": ["Mostly Clear"], "temp": ["Low: 56 \u00b0F"]},
+{"day": "Tuesday", "forecast": ["Sunny"], "temp": []},
+{"day": "Tuesday", "forecast": ["Partly Cloudy"], "temp": ["Low: 56 \u00b0F"]},
+{"day": "Wednesday", "forecast": ["Partly Sunny"], "temp": []},
+{"day": "Wednesday", "forecast": ["Mostly Cloudy"], "temp": ["Low: 55 \u00b0F"]}
+]
